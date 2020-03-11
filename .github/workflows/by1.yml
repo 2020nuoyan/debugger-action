@@ -1,4 +1,4 @@
-name: by2
+name: by1
 on: [push]
 jobs:
   build:
